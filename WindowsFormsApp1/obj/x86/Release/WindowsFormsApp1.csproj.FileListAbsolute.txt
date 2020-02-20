@@ -1,0 +1,14 @@
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.pdb
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.OrderSet.resources
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.SNInput.resources
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.QCheck.resources
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Delorder.resources
+D:\jaylai\c#sncheck\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Password.resources
